@@ -1,0 +1,23 @@
+{
+  "name": "my-frontend-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resul-elezi/my-frontend-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/resul-elezi/my-frontend-framework/issues"
+  },
+  "homepage": "https://github.com/resul-elezi/my-frontend-framework#readme",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
