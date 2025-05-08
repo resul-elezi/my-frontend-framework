@@ -1,7 +1,7 @@
 {
-  "name": "my-frontend-framework",
+  "name": "result.js",
   "version": "1.0.0",
-  "description": "",
+  "description": "My Frontend Framework!",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
