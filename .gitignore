@@ -1,2 +1,30 @@
+# Node.js dependencies
 node_modules/
-.vscode
+
+# Parcel build output
+dist/
+.cache/
+
+# Logs
+*.log
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
+
+# ESLint config file
+.eslintcache
+
+# Yarn lock file 
+yarn.lock
+
+# NPM package-lock file 
+package-lock.json
